@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-15T01:31:06.575Z; n=40
-total chess championship	sn:chess	8.62	no	RISING
+# generated 2026-11-15T11:46:25.143Z; n=40
+total chess championship	sn:chess	8.65	no	RISING
 books	sn:the_stacker_muse,sn:BooksAndArticles	7.02	no	RISING
-show	hn	6.22	no	RISING
-android	hn,sn:tech	4.73	yes	
+show	hn	6.43	no	RISING
+project zero	hn,sn:tech	4.93	yes	
+require	hn	4.15	no	RISING
 read	sn:the_stacker_muse	4.08	no	RISING
 the odyssey	sn:the_stacker_muse	4.08	no	RISING
 rouse	sn:the_stacker_muse	4.08	no	RISING
 sauna shorts	sn:bitcoin	3.45	yes	
 futures	sn:bitcoin	3.45	yes	
 behemoth	sn:bitcoin	3.45	yes	
-lodging	sn:BooksAndArticles	3.35	yes	
-wayfaring men book club	sn:BooksAndArticles	3.35	yes	
-covetousness	sn:BooksAndArticles	3.35	no	RISING
-revaluing	sn:BooksAndArticles	3.35	no	RISING
-self	sn:BooksAndArticles	3.35	no	RISING
-write	hn	3.32	no	RISING
+lodging	sn:BooksAndArticles	3.38	yes	
+wayfaring men book club	sn:BooksAndArticles	3.38	yes	
+covetousness	sn:BooksAndArticles	3.38	no	RISING
+revaluing	sn:BooksAndArticles	3.38	no	RISING
+self	sn:BooksAndArticles	3.38	no	RISING
 stackers	sn:food_and_drinks	3.19	no	RISING
 taste this week	sn:food_and_drinks	3.19	no	RISING
-two days	sn:bitcoin	3.11	yes	
-dallas	sn:bitcoin	3.11	yes	
-review	sn:bitcoin	3.11	yes	
+starship	hn	3.11	yes	
+flight	hn	3.11	no	RISING
 discover	sn:chess	3.09	no	RISING
 anish bringing	sn:chess	3.09	no	RISING
 homecooking	sn:chess	3.09	no	RISING
 goat	sn:chess	3.09	no	RISING
 almost out	sn:chess	3.09	no	RISING
+top cowboy	sn:meta	3.08	yes	
 cantill one	sn:events	3.04	yes	
 first	sn:events	3.04	yes	
-total chess budapest	sn:AI	3.04	yes	
 apollo mission	sn:Stacker_Stocks	3.02	no	RISING
 private equity	sn:Stacker_Stocks	3.02	no	RISING
 british airlines	sn:Stacker_Stocks	3.02	no	RISING
 telegraph	sn:Stacker_Stocks	3.02	no	RISING
 lynn	sn:Stacker_Stocks	3.02	no	RISING
-self-custodial	sn:bitcoin	2.98	yes	
-daily putt	sn:gaming	2.98	no	RISING
-play	sn:gaming	2.98	no	RISING
-putt	sn:gaming	2.98	no	RISING
-score	sn:gaming	2.98	no	RISING
-top cowboy	sn:meta	2.97	yes	
+self-custodial	sn:bitcoin	2.99	yes	
+articles weekly	sn:BooksAndArticles	2.94	no	RISING
+lovable	hn	2.93	no	RISING
+saturday	sn:art	2.92	no	RISING
+share	sn:art	2.92	no	RISING
+saturday newsletter	sn:meta	2.89	yes	
+which pawn	sn:chess	2.89	no	RISING
