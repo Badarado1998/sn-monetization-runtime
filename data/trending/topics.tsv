@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-17T23:21:34.901Z; n=40
-code	hn,sn:BooksAndArticles	5.42	no	RISING
-nvidia	hn,sn:tech	5.41	yes	
-show	hn	3.83	no	RISING
+# generated 2026-11-18T12:42:08.235Z; n=40
+nvidia	hn,sn:tech	5.78	yes	
+astra	hn,sn:tech	5.77	yes	
+code	hn,sn:BooksAndArticles	5.66	no	RISING
+linklater	sn:movies	4.11	no	RISING
+slacker	sn:movies	4.11	no	RISING
+radical	sn:movies	4.11	no	RISING
+mediocre	sn:movies	4.11	no	RISING
 bitcoin	sn:bitcoin	3.71	yes	
 narratives	sn:bitcoin	3.71	yes	
 being purged	sn:bitcoin	3.71	yes	
 eric yakes	sn:bitcoin	3.71	yes	
-flash	hn	3.54	yes	
-antoine poinsot	sn:bitcoin	3.29	yes	
-bitcoin optech newsletter	sn:bitcoin	3.29	yes	
-recap podcast	sn:bitcoin	3.29	yes	
+antoine poinsot	sn:bitcoin	3.34	yes	
+bitcoin optech newsletter	sn:bitcoin	3.34	yes	
+recap podcast	sn:bitcoin	3.34	yes	
 americans	sn:AI	3.24	yes	
-strategy	sn:Stacker_Stocks	3.2	no	RISING
-oh strategy	sn:Stacker_Stocks	3.2	no	RISING
-the parasite that keeps giving	sn:Stacker_Stocks	3.2	no	RISING
-alphaville	sn:Stacker_Stocks	3.2	no	RISING
-coben	sn:Stacker_Stocks	3.2	no	RISING
-last	sn:Stacker_Sports	3.17	no	RISING
-bitcoin policy institute	sn:news	3.16	yes	
-finney foundation	sn:news	3.16	yes	
-open technology	sn:news	3.16	yes	
-mara	sn:bitcoin	3.14	yes	
-foundation	sn:bitcoin	3.14	yes	
-is upgrading	sn:bitcoin	3.14	yes	
-stratum	sn:bitcoin	3.14	yes	
-chicago	sn:family	3.1	no	RISING
-new evidence shows school phone bans are gradually improving test scores	hn	3.05	no	RISING
-austin bitdevs socratic seminar	sn:bitcoin	3.05	yes	
-gold	sn:BooksAndArticles	3.03	no	RISING
-command	sn:BooksAndArticles	3.03	no	RISING
-looking	sn:BooksAndArticles	3.03	yes	
-the camera matters again	sn:art	3.01	no	RISING
-just not	sn:art	3.01	no	RISING
-reason you think	sn:art	3.01	no	RISING
-astra	hn	3	yes	
+mara	sn:bitcoin	3.21	yes	
+foundation	sn:bitcoin	3.21	yes	
+is upgrading	sn:bitcoin	3.21	yes	
+stratum	sn:bitcoin	3.21	yes	
+last	sn:Stacker_Sports	3.18	no	RISING
+bitcoin policy institute	sn:news	3.18	yes	
+finney foundation	sn:news	3.18	yes	
+open technology	sn:news	3.18	yes	
+austin bitdevs socratic seminar	sn:bitcoin	3.13	yes	
+gold	sn:BooksAndArticles	3.08	no	RISING
+command	sn:BooksAndArticles	3.08	no	RISING
+looking	sn:BooksAndArticles	3.08	yes	
+jensen huang	sn:tech	3.02	yes	
 in blue-wave states	sn:Politics_And_Law	2.98	no	RISING
 plans	sn:Politics_And_Law	2.98	no	RISING
 lower	sn:Politics_And_Law	2.98	no	RISING
 cost	sn:Politics_And_Law	2.98	no	RISING
 living are running into reality	sn:Politics_And_Law	2.98	no	RISING
+roast	sn:bitcoin	2.95	yes	
+the jensen affair	sn:Politics_And_Law	2.9	no	RISING
+casually make	sn:Politics_And_Law	2.9	no	RISING
+wigglesworth	sn:Politics_And_Law	2.9	no	RISING
+flipper one	sn:tech	2.89	yes	
+open linux multi	sn:tech	2.89	yes	
+release	sn:tech	2.89	yes	
