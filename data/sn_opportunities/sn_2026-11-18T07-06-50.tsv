@@ -1,0 +1,48 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1616371	bitcoin	1	5098	0	21	11.9	724606	14281	recent@bitcoin|top@bitcoin	HOT,SIGNAL	Bitcoin's Narratives are Being Purged (Eric Yakes)
+1616455	bitcoin	1	2070	0	0	9.2	1014665	255	recent@bitcoin|top@bitcoin|recent@lightning	HOT,SIGNAL	Antoine Poinsot - Bitcoin Optech Newsletter #431 Recap Podcast
+1616516	tech	1	693	0	2	7.3	144357	4773	recent@tech|top@tech	SIGNAL	Flipper One — Open Linux Multi-tool Release - Kickstarter
+1616589	AI	1	605	0	4	3.9	74100	13861	recent@AI|top@AI	SIGNAL	An interesting take on slop scandals in the literary world
+1616478	tech	1	371	0	0	8.1	777209	158	recent@tech|top@tech	SIGNAL	Java4Shell: pre-auth RCE in OpenJDK's Base64 decoder, patch out today
+1616489	nostr	1	225	0	0	8.0	1278026	926	recent@nostr|top@nostr	SIGNAL	UTXo TwM steps back from Nostr development
+1616502	tech	1	217	0	1	7.7	280679	24068	recent@tech|top@tech|recent@AI	SIGNAL	Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation
+1616586	bitcoin	1	173	0	0	4.0	296825	5914	recent@bitcoin_beginners|top@bitcoin_beginners|recent@lightning	SIGNAL	How this works
+1616378	bitcoin_Mining	1	159	0	1	11.8	9274	29795	recent@bitcoin_Mining|top@bitcoin_Mining	SIGNAL	Hashrate Index Roundup: the week Bitcoin fell 12.9%
+1616382	bitcoin	1	112	0	0	11.7	296825	5914	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus	SIGNAL	Something I Witnessed Today That Got Me Thinking About "WHY?"
+1616144	AI	1	1738	0	22	17.9	280679	24068	recent@AI|top@AI	HOT	No matter how you ask, more Americans are negative than positive about AI
+1616278	bitcoin	1	1480	0	3	14.7	74100	13861	recent@bitcoin|top@bitcoin|recent@bitcoin_Mining	HOT	MARA Foundation on X: "Why MARA Is Upgrading to Stratum V2"
+1616273	news	2	1472	0	6	14.8	74100	13861	recent@bitcoin|top@bitcoin	HOT,SELF_POST_OPP	Bitcoin Policy Institute is now the Finney Foundation for Open Technology
+1616185	lightning	1	1186	0	3	16.4	440729	370	recent@lightning|top@lightning	HOT	Biggest Channel Opened Today (2.9 BTC) + New Node Spotlight (02226fd270d558db7…)
+1616340	bitcoin	1	1127	0	0	12.8	74100	13861	recent@bitcoin|top@bitcoin|recent@bitdevs	HOT	Austin Bitdevs Socratic Seminar #82
+1616286	tech	1	902	0	3	14.3	776307	1333	recent@tech|top@tech		Jensen Huang would be honored to return as CEO of Nvidia
+1616276	bitcoin	1	887	57000	19	14.8	1611134	24	recent@bitcoin|top@bitcoin	OPEN_BOUNTY	Roast our shop, win 57k sats
+1615879	nostr	1	700	0	1	29.4	74100	13861	recent@nostr		pensieve: The eternal memory well of Nostr - andotherstuff
+1616045	bitcoin	1	617	0	2	20.8	1600846	28	recent@bitcoin|top@bitcoin		Bounty: 5,000 sats for one complete screen recording of our iOS app
+1615714	bitcoin_Mining	1	593	0	1	33.9	272410	2398	recent@bitcoin_Mining		Luxor Promises Refunds After Attackers Redirect Customers’ Bitcoin Mining Power
+1616351	bitcoin	1	575	0	1	12.4	593189	897	recent@bitcoin|top@bitcoin		Texas Power Prices, Not Bitcoin, Drove the 9.13% Difficulty Drop
+1615921	bitcoin	1	514	0	1	27.9	1552562	138	recent@bitcoin		Midland police warning residents of new scam involving bitcoin kiosks
+1616255	bitcoin	1	470	0	1	15.0	996769	65	recent@bitcoin|top@bitcoin		Ricardo Salinas: Mexico 2030, Bukele & Why Bitcoin Isn’t Over
+1615823	AI	1	468	0	1	30.9	1575305	100	recent@AI		California sues OpenAI after its rogue agent hacked Hugging Face
+1616336	tech	1	456	0	0	13.0	777209	158	recent@tech|top@tech		OpenAI releases GPT-6.2 Astra and GPT-6.2 Sol
+1616122	AI	1	434	0	1	18.5	401865	8850	recent@AI|top@AI		Anthropic, OpenAI, and Other AI Giants Sued To Stop AI Development By Nonprofits
+1615761	bitcoin	1	342	0	0	32.3	125984	1760	recent@bitcoin		The Bugle Weekly • Bloody Monday | Bugle Weekly Episode 132 • Listen on Fountain
+1615773	tech	1	324	0	0	32.0	777209	158	recent@tech		Optimizely bundles on CNN, Zoom and BBC served a crypto clipper and card skimmer
+1616169	tech	1	284	0	0	17.0	1552562	138	recent@tech|top@tech		As teen sextortion surges, US tech companies’ choices make abuse harder to stop
+1615695	news	2	269	0	0	34.6	126503	876	recent@bitcoin		Trezor data breach
+1616132	bitcoin	1	214	0	1	18.1	1554639	37	recent@bitcoinplusplus|top@bitcoinplusplus|recent@lightning		We need more decentralized P2P markets!
+1615900	AI	1	189	0	5	28.6	9274	29795	recent@AI		The hidden environmental cost of AI data centers
+1616359	bitcoin_Mining	1	138	0	0	12.3	272410	2398	recent@bitcoin_Mining|top@bitcoin_Mining		B.O.B. Social with Ryan Kuester | Mujina ~ Chicago Bitcoin Collective
+1616030	AI	1	125	0	1	22.6	382968	342	recent@AI|top@AI		Moonshot open-sources KHA, a Go SDK and CLI for Kimi Hosted Agents
+1616002	bitcoin	1	67	0	5	23.8	1606348	12	top@bitcoin		Bitcoin Arena Bounty Season 2: AI emptied season 1, this one is for players
+1616384	AI	1	57	0	2	11.7	642641	10035	recent@AI|top@AI		Trump’s Advisers Are at War Over China Ahead of Xi Summit- China wins AI race?
+1616193	bitcoin	1	36	0	0	16.1	238412	457	recent@bitcoin_beginners|top@bitcoin_beginners		Bitcoin Payments In Music
+1616053	bitcoin	1	36	0	0	20.6	1532836	1801	recent@bitcoin_beginners|top@bitcoin_beginners		HOLD is a vision of the future; you just need to understand it.
+1616545	AI	1	21	0	0	6.6	1321152	74	recent@AI|top@AI		Today, Nvidia reports earnings; a study charts AI race debts and obligations.
+1616524	AI	1	21	0	0	7.0	1575305	100	recent@AI|top@AI		GPT-6.2 Astra is OpenAI's first public model rated High for AI self-improvement
+1616127	AI	1	11	0	0	18.2	1532699	483	recent@AI|top@AI		AI Is Now Joining Your Meetings. How Long Before It Replaces You?
+1616338	AI	1	5	0	0	12.9	1575305	100	recent@AI|top@AI		Claude's CRISPR-like phage enzymes pass a cloud-lab test it designed itself
+1616611	tech	1	0	0	0	2.1	296825	5914	recent@bitcoin_beginners|top@bitcoin_beginners		The next emergency wants your permission
+1615979	bitcoin	1	0	0	0	25.3	296825	5914	recent@bitcoin_beginners|recent@bitdevs		Data breach at Trezor shipping partner, Skladon
+1616637	AI	1	0	0	0	0.6	382968	342	recent@AI|top@AI	FRESH	Tencent releases Hy4 flash weights: 220B MoE, 12B active, 1M context
+1616596	AI	1	0	0	0	3.5	1516221	2	recent@AI|top@AI		Stack Sats Today, Build a Better Tomorrow! ₿🚀
+1616342	AI	1	0	0	0	12.8	12309	3778	recent@AI|top@AI		What did Jacob Coxon see?
