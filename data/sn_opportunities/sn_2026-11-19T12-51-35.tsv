@@ -1,0 +1,76 @@
+# id	sub	tier	score	bounty	ncom	ageH	op_since	op_nitems	hits	tags	title
+1617414	BooksAndArticles	2	6203	0	1	0.7	724606	14324	recent@BooksAndArticles|top@BooksAndArticles	FRESH,HOT,SIGNAL	BOOK on BOOKS: "Resistance Money", by Warmke-Bailey-Rettler
+1617406	Stacker_Stocks	2	1199	0	0	0.9	724606	14324	recent@econ|top@econ|recent@Stacker_Stocks	FRESH,HOT,SIGNAL	Anthropic IPO Day: "Oversubscription" is PRETTY Fake (Money Stuff, Matt Levine)
+1617301	bitcoin	1	753	0	0	9.5	1552562	148	recent@bitcoin|top@bitcoin	SIGNAL	Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia
+1617335	Construction_and_Engineering	2	555	0	0	5.7	1022234	659	recent@Construction_and_Engineering|top@Construction_and_Engineering	SIGNAL	PoW 11/18/26
+1617311	bitcoin	1	466	0	1	8.5	296825	5918	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners	SIGNAL	Update on the Hardware Implant Incident Investigation
+1617378	movies	3	457	0	0	2.1	724606	14324	recent@econ|top@econ	SIGNAL	Effective Altruism on the Screen: SBF, FTX, Ellison in new Netflix Mini Series
+1617405	news	2	259	0	1	1.0	272410	2418	recent@news|top@news	FRESH,SIGNAL	Hackers access financial and medical data of retired NYC government workers
+1617305	news	2	212	0	0	9.0	272410	2418	recent@AI|top@AI|recent@Stacker_Stocks	SIGNAL	AI giant Anthropic valued at up to $1.5tn ahead of stock market debut
+1617377	Stacker_Stocks	2	181	0	0	2.1	9274	29836	recent@Stacker_Stocks|top@Stacker_Stocks	SIGNAL	Daily Stock Discussion ~Stacker_Stocks
+1617369	news	2	174	0	0	2.7	297791	8129	recent@news|top@news	SIGNAL	South Korea officially reaches $1 trillion in annual exports for the first time
+1617312	bitcoin	1	123	0	1	8.1	296825	5918	recent@bitcoin_beginners|top@bitcoin_beginners|recent@Stacker_Stocks	SIGNAL	The Downfall of Michael Saylor
+1617399	Stacker_Stocks	2	118	0	0	1.4	9274	29836	recent@Stacker_Stocks|top@Stacker_Stocks	FRESH,SIGNAL	🛒 Retail vibe check - Snacks
+1616893	AMA	2	15601	0	54	20.8	1616893	26	recent@AMA|top@AMA	HOT	AMA: I'm Robert Warren, Head of Comms at bitcoin miner Elektron Energy
+1617038	Stacker_Sports	3	3710	0	9	18.3	48657	16932	recent@econ|top@econ|recent@BooksAndArticles	HOT,SELF_POST_OPP	Review of David Berri's Sports Economics, Chapter 2
+1617169	bitcoin_Mining	1	1859	0	21	14.7	30782	26248	recent@bitcoin_Mining|top@bitcoin_Mining	HOT	Ocean hit 13 blocks today
+1616589	AI	1	1477	0	33	33.6	74100	13878	recent@AI|recent@BooksAndArticles	HOT	An interesting take on slop scandals in the literary world
+1617085	AI	1	1278	0	2	17.2	401865	8854	recent@AI|top@AI|recent@Construction_and_Engineering	HOT	The Abandoned Coal Plant Elon Musk Is Turning Into a $119BN Chip Factory
+1616996	news	2	1232	0	6	19.5	74100	13878	recent@news|top@news	HOT,SELF_POST_OPP	Police arrest 354 suspects in dark web cybercrime crackdown
+1616677	bitcoin	1	1139	0	1	27.4	382968	346	recent@bitcoin|recent@lightning	HOT	LNbits: November 8th Incident Report
+1617050	Politics_And_Law	3	1105	0	1	18.0	724606	14324	recent@econ|top@econ	HOT	Las Malvinas Son Argentinas!! (FT, Ciara Nugent)
+1616771	news	2	1023	0	2	24.3	51481	4371	recent@tech|recent@Construction_and_Engineering|recent@Stacker_Stocks	HOT	Waymo pauses robotaxi rides on US freeways after California ban
+1616789	tech	1	986	0	1	23.7	280679	24078	recent@tech|top@tech|recent@science		Voyager 1 at one light-day: Historian revisits Golden Record's forgotten details
+1617039	Stacker_Stocks	2	973	0	8	18.3	724606	14324	recent@econ|top@econ|recent@Stacker_Stocks	SELF_POST_OPP	Anthropic IPO: AI Lab Raises Its Valuation Target (CNBC, Capoot and Picker)
+1616754	tech	1	699	0	3	24.9	777209	163	recent@tech		Codeberg.org is offline after its registrar suspended the domain
+1617030	Stacker_Stocks	2	672	0	3	18.6	724606	14324	recent@econ|top@econ|recent@Stacker_Stocks		STRC: Don't Stretch Your Wallet For This One (SA, Marty Popoff)
+1617037	bitcoin	1	620	0	1	18.4	495235	49	recent@bitcoin|top@bitcoin		Introducing Bitcoin Date Night: 100 cards to truly understand who you hodl
+1617090	bitcoin	1	610	0	6	17.0	1617090	1	recent@bitcoin|top@bitcoin|recent@bitcoin_beginners		lightning.gifts - send a bitcoin gift to someone who doesn't have a wallet yet
+1617092	Stacker_Stocks	2	574	0	1	16.8	1532699	484	top@Stacker_Stocks		AI Cyberattacks May Create the Next Investment Boom. Are These the Right Stocks?
+1616711	history	2	553	0	1	26.0	280679	24078	recent@history		100 Years of Route 66
+1617075	AI	1	509	0	3	17.4	934429	378	top@Stacker_Stocks		This chart shows the extent of Nvidia’s dominance in data center chips.
+1616628	Construction_and_Engineering	2	463	0	2	30.7	1022234	659	recent@Construction_and_Engineering		PoW 11/17/26
+1616846	nostr	1	449	0	0	22.1	74100	13878	recent@nostr|top@nostr|recent@devs		verdana: napp runner for desktop and android - fiatjaf
+1616891	tech	1	438	0	0	20.8	777209	163	recent@tech|top@tech		Two pre-auth RCEs in NGINX HTTP/2, fixed in 1.30.7 and 1.31.9
+1617198	math	2	432	0	2	13.4	280679	24078	recent@tech|top@tech|recent@math		CURBy CU Randomness Beacon | University of Colorado Boulder
+1617068	AI	1	361	0	3	17.5	401865	8854	recent@AI|top@AI		Judge Questions LSU's Claims the SEC 'hallucinated' Citations
+1616610	news	2	356	0	0	32.0	6263	10520	recent@news		CODE ORANGE - Most Fort Meade NSA employees told to stay home
+1617182	bitcoin	1	341	0	3	14.0	1278026	927	recent@bitcoin|top@bitcoin|recent@econ		Tradfi view of Strategy flywheel phenomenon
+1616811	Politics_And_Law	3	336	0	2	23.1	401865	8854	recent@science|top@science		Forensic Scientist, Who Got Rare Access, Claims Photos Show Epstein Murdered
+1616615	lol	2	336	0	3	31.5	48657	16932	recent@news|recent@lol		Jensen Huang Hopes You Get Flu and Die
+1616875	BooksAndArticles	2	314	0	1	21.4	272410	2418	recent@BooksAndArticles|top@BooksAndArticles		What's one Bitcoin book everyone should read? 📚
+1616888	meta	1	313	0	3	20.9	36151	1717	recent@meta|top@meta		What are you working on this week?
+1616563	BooksAndArticles	2	258	0	5	35.2	238412	460	recent@BooksAndArticles	SELF_POST_OPP	My Students Can’t Read
+1617180	gaming	3	232	0	0	14.0	280679	24078	recent@math|top@math		The Nerds Who Beat Slot Machines With Math | Veritasium
+1616919	Politics_And_Law	3	190	0	1	20.5	272410	2418	recent@history|top@history		Hakeem Jeffries formally nominated as first black US House speaker
+1616564	AskSN	2	181	0	2	35.2	1532836	1815	recent@AskSN		This is what has happened in the world and the markets over the last 10 days.
+1616972	Music	3	178	0	2	19.9	30993	3752	recent@AI|top@AI		Daft Punk Curiosity
+1616586	bitcoin	1	173	0	0	33.7	296825	5918	recent@bitcoin_beginners|recent@lightning		How this works
+1616794	Stacker_Stocks	2	166	0	0	23.5	280679	24078	recent@Stacker_Stocks|top@Stacker_Stocks		Amazon and Google will together own nearly 30% of Anthropic after its IPO
+1617124	bitcoin	1	159	0	3	15.9	223678	6624	recent@bitcoin|top@bitcoin		HeySats Bitcoin App
+1617088	Music	3	156	0	0	17.1	272410	2418	recent@lol|top@lol		"We Don't Know": the satirical track by Donny T and the Oligarchs
+1617173	gaming	3	137	0	1	14.4	280679	24078	recent@history|top@history		Bonnie and Clyde | That movie about the couple behind the GTA VI characters
+1616611	tech	1	136	0	0	31.8	296825	5918	recent@bitcoin|recent@bitcoin_beginners|recent@tech		The next emergency wants your permission
+1616705	Stacker_Stocks	2	132	0	10	26.1	9274	29836	recent@Stacker_Stocks		Daily Stock Discussion ~Stacker_Stocks
+1616637	AI	1	107	0	0	30.4	382968	346	recent@AI		Tencent releases Hy4 flash weights: 220B MoE, 12B active, 1M context
+1617203	AI	1	103	0	0	12.8	1575305	102	recent@AI|top@AI|recent@ideasfromtheedge		Gemini 4 Neon swarm built a 3D renderer out of 500,000 Google Sheets formulas
+1616671	devs	1	100	0	0	27.7	297791	8129	recent@devs		Java4Shell Vulnerability For OpenJDK Java That Can Lead To Remote Code Execution
+1616693	math	2	74	0	5	26.9	104755	13613	recent@math		How well do you know your time tables?
+1617398	news	2	67	0	0	1.4	272410	2418	recent@news|top@news	FRESH	Get ready for another critical PHP security release to drop
+1617397	AskSN	2	57	0	0	1.5	984933	3133	recent@AskSN|top@AskSN	FRESH	Daily Discussion Thread ~AskSN
+1617104	bitcoin	1	40	0	0	16.4	1532836	1815	recent@bitcoin_Mining|top@bitcoin_Mining		Rigly’s Blockparty – we’ll see you this Saturday, Nov 21st.
+1617210	bitcoin	1	36	0	0	12.2	1532836	1815	recent@bitcoin_beginners|top@bitcoin_beginners|recent@bitcoinplusplus		🧌 Mostro v2.1.3 is out! 👌👌🤟🫶🫶💪🙏✌️✌️
+1616934	Politics_And_Law	3	36	0	0	20.3	642641	10083	recent@econ|top@econ|recent@history		US military industrial complex decimated by neoliberalism. China wins, again.
+1616720	AskSN	2	36	0	1	25.6	984933	3133	recent@AskSN		Daily Discussion Thread ~AskSN
+1616695	devs	1	21	0	0	26.8	297791	8129	recent@devs		GitDoor & GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels
+1617418	charts_and_maps	2	10	0	0	0.5	458256	5123	recent@charts_and_maps|top@charts_and_maps	FRESH	The Future of World Religions, 2020-2070
+1616987	AI	1	5	0	0	19.7	7224	389	recent@AI|top@AI		Authoritarian govts may use AI to create high-tech surveillance states [...]
+1617325	podcasts	2	1	0	0	6.3	1549654	109	recent@podcasts|top@podcasts		During a YouTube live stream
+1616654	tech	1	0	0	0	28.7	213009	186	recent@devs		A declarative Bitcoin stack
+1617420	AI	1	0	0	0	0.5	382968	346	recent@AI|top@AI	FRESH	Kimi Code Desktop 1.4 released, can host Claude Code, Codex and Cursor sessions
+1617027	AI	1	0	0	0	18.7	1575305	102	recent@AI|top@AI|recent@ideasfromtheedge		Robots now make the cuts in 2 of every 3 Stryker knee replacements
+1617373	Education	2	0	0	0	2.4	104755	13613	recent@Education|top@Education		Graduation Concert 2026
+1617153	news	2	0	0	0	15.2	297791	8129	recent@news|top@news		BIZ BUZZ: The P1-B crypto enigma
+1617288	Photography	3	0	0	1	10.5	984933	3133	recent@history|top@history		A rainy day in Wellington, New Zealand, 1910
+1617351	podcasts	2	0	0	0	4.6	1549654	109	recent@podcasts|top@podcasts		a YouTube playlist
+1617303	Memes	2	0	0	0	9.4	1532836	1815	recent@Memes|top@Memes		the sleeping bitcoiner
