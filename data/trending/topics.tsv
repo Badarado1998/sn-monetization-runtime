@@ -1,42 +1,42 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-20T22:30:07.857Z; n=40
-what	sn:trading,sn:family	6.02	yes	
-generalized riemann hypothesis	hn	5.75	no	RISING
-show	hn	5.48	no	RISING
-are you having fun staying poor	sn:AskSN	3.82	no	RISING
-stackers	sn:AskSN	3.82	no	RISING
-trunk-load	sn:DIY	3.79	yes	
-bread	sn:Politics_And_Law	3.74	no	RISING
-riemann	sn:math	3.72	yes	
+# generated 2026-11-21T12:10:35.268Z; n=40
+generalized riemann hypothesis	hn	6.1	no	RISING
+bitcoin	sn:bitcoin,sn:Music	6.03	yes	
+what	hn,sn:trading	5.65	yes	
+open-sources	hn,sn:bitcoin	3.93	yes	
+are you having fun staying poor	sn:AskSN	3.83	no	RISING
+stackers	sn:AskSN	3.83	no	RISING
+trunk-load	sn:DIY	3.83	yes	
+riemann	sn:math	3.73	yes	
 decentralized	sn:bitcoin	3.53	yes	
 bitcoin optech newsletter	sn:bitcoin	3.53	yes	
-levent alp	hn	3.34	no	RISING
-the resolution hypothesis	sn:AI	3.32	yes	
-democrat-touted grocery co-op collapses after	sn:econ	3.23	no	RISING
-months	sn:econ	3.23	no	RISING
+levent alp	hn	3.43	no	RISING
+hurried announcement	hn	3.34	no	RISING
+alessandro masullo	hn	3.34	no	RISING
+the resolution hypothesis	sn:AI	3.33	yes	
+bitcoin crash continues	sn:trading	3.26	no	RISING
+scared	sn:trading	3.26	no	RISING
+next	sn:trading	3.26	no	RISING
+nik bhatia	sn:trading	3.26	no	RISING
+democrat-touted grocery co-op collapses after	sn:econ	3.26	no	RISING
+months	sn:econ	3.26	no	RISING
+update	sn:family	3.24	yes	
+paolo	sn:family	3.24	no	RISING
 necromancing	sn:tech	3.22	yes	
-unravel rule	sn:tech	3.21	yes	
-prove	sn:tech	3.21	yes	
-bitcoin crash continues	sn:trading	3.19	no	RISING
-scared	sn:trading	3.19	no	RISING
-next	sn:trading	3.19	no	RISING
-nik bhatia	sn:trading	3.19	no	RISING
-update	sn:family	3.19	yes	
-paolo	sn:family	3.19	no	RISING
-hurried announcement	hn	3.07	no	RISING
-alessandro masullo	hn	3.07	no	RISING
+total chess championship	sn:chess	3.13	no	RISING
+magnus saccing queens	sn:chess	3.13	no	RISING
+shits	sn:chess	3.13	no	RISING
+giggles	sn:chess	3.13	no	RISING
+weekly random sports pick	sn:Stacker_Sports	3.07	no	RISING
+sales tracker	sn:gaming	3.06	no	RISING
+pre-orders	sn:gaming	3.06	no	RISING
+units sold	sn:gaming	3.06	no	RISING
+revenue	sn:gaming	3.06	no	RISING
+biggest channel opened today	sn:lightning	3.06	no	RISING
+new node spotlight	sn:lightning	3.06	no	RISING
 berlin	sn:bitcoinplusplus	3.05	no	RISING
+inkling	hn	3.03	no	RISING
+mini	hn	3.03	no	RISING
 stacker news	sn:meta	3.03	yes	
 silk road	sn:meta	3.03	yes	
-remember	sn:bitcoin	3.01	yes	
-sales tracker	sn:gaming	3.01	no	RISING
-pre-orders	sn:gaming	3.01	no	RISING
-units sold	sn:gaming	3.01	no	RISING
-revenue	sn:gaming	3.01	no	RISING
-weekly random sports pick	sn:Stacker_Sports	2.98	no	RISING
-bitcoin beginners newsletter	sn:bitcoin_beginners	2.94	no	RISING
-sovereign bitcoin hardware	sn:bitcoin	2.86	yes	
-decentralized transfer	sn:bitcoin	2.86	yes	
-canaan	sn:bitcoin	2.84	yes	
-open-sources	sn:bitcoin	2.84	yes	
-avalon nano	sn:bitcoin	2.84	yes	
+remember	sn:bitcoin	3.03	yes	
