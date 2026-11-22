@@ -1,10 +1,11 @@
 # topic	sources	score	seen_in_sn	rising_flag
-# generated 2026-11-22T01:55:04.070Z; n=40
-inkling	hn,sn:AI	8.62	yes	
-mini	hn,sn:AI	8.62	yes	
+# generated 2026-11-22T12:18:31.079Z; n=40
 books	sn:the_stacker_muse,sn:BooksAndArticles	6.24	no	RISING
-lean	hn	4.91	no	RISING
-riemann hypothesis	hn	4.91	no	RISING
+inkling	hn,sn:AI	5.6	yes	
+mini	hn,sn:AI	5.6	yes	
+lean	hn,sn:math	5.59	no	RISING
+riemann hypothesis	hn,sn:math	5.59	no	RISING
+rust	hn	3.99	no	RISING
 economics	sn:Politics_And_Law	3.61	no	RISING
 musings	sn:Politics_And_Law	3.61	no	RISING
 jobs	sn:Politics_And_Law	3.61	no	RISING
@@ -18,25 +19,24 @@ book	sn:the_stacker_muse	3.4	no	RISING
 our dollar	sn:the_stacker_muse	3.4	no	RISING
 your problem	sn:the_stacker_muse	3.4	no	RISING
 kenneth rogoff	sn:the_stacker_muse	3.4	no	RISING
-hurried announcement	hn	3.38	no	RISING
-alessandro masullo	hn	3.38	no	RISING
-rust	hn	3.31	no	RISING
-my podcast	sn:Education	3.26	no	RISING
-the answer	sn:Education	3.26	no	RISING
-transaction costs	sn:Education	3.26	no	RISING
-double rewards in my territories this week	sn:bitcoin_beginners	3.23	no	RISING
+hurried announcement	hn	3.39	no	RISING
+alessandro masullo	hn	3.39	no	RISING
+my podcast	sn:Education	3.28	no	RISING
+the answer	sn:Education	3.28	no	RISING
+transaction costs	sn:Education	3.28	no	RISING
+double rewards in my territories this week	sn:bitcoin_beginners	3.24	no	RISING
+launched	sn:gaming	3.19	yes	
 live	sn:DIY	3.18	no	RISING
 sourdough	sn:DIY	3.18	no	RISING
-necromancing	sn:tech	3.1	yes	
-part	sn:tech	3.1	yes	
+necromancing	sn:tech	3.14	yes	
+part	sn:tech	3.14	yes	
+show	hn	3.13	no	RISING
+modest proposal	sn:lol	3.05	no	RISING
+benefit	sn:lol	3.05	no	RISING
+public welfare	sn:lol	3.05	no	RISING
+destroy mercury	sn:lol	3.05	no	RISING
+pill	hn	3.03	no	RISING
 open-weights	sn:AI	2.91	yes	
-brazil	hn	2.88	no	RISING
-open-sources	hn	2.88	yes	
 articles weekly	sn:BooksAndArticles	2.84	no	RISING
-china	sn:Politics_And_Law	2.81	no	RISING
-pill	hn	2.8	no	RISING
-playing like	sn:chess	2.8	no	RISING
-my cute way	sn:chess	2.8	no	RISING
-rapid	sn:chess	2.8	no	RISING
-what	hn	2.79	yes	
-is anthropic	sn:AI	2.79	yes	
+detonating	hn	2.8	no	RISING
+den beats	sn:chess	2.8	no	RISING
